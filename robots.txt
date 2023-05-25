@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+https://eleccionestulancingo.com/sitemap.xml

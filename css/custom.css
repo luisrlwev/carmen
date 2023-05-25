@@ -1,0 +1,24 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+@media only screen and (max-width: 415px) and (min-width: 376px) {
+    .min-vh-30-mb {
+        min-height: 30vh !important;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .min-vh-25-mb {
+        min-height: 25vh !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .min-vh-40-mb {
+        min-height: 40vh !important;
+    }
+}
